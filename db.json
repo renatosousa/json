@@ -2,12 +2,8 @@
   "questions": [
     {
       "id": 1,
-      "enunciado": "O Inmetro procedeu à análise de garrafas térmicas com ampolas de vidro, para manter o consumidor informado sobre a adequação dos produtos aos Regulamentos e Normas Técnicas. Uma das análises é a de eficiência térmica. Nesse ensaio, verifica-se a capacidade da garrafa térmica de conservar o líquido aquecido em seu interior por determinado tempo. A garrafa é completada com água a 90 ºC até o volume total. Após 3 horas, a temperatura do líquido é medida e deve ser, no mínimo, de 81 ºC para garrafas com capacidade de 1 litro, pois o calor específico da água é igual a 1 cal/g ºC.
-
-Disponível em: http://www.inmetro.gov.br/consumidor/produtos/garrafavidro.asp. Acesso em: 3 maio 2009 (adaptado)
-
-Atingindo a água 81 ºC nesse prazo, a energia interna do sistema e a quantidade de calor perdida para o meio são, respectivamente",
-      "alternativas": "testes"
+      "enunciado": "O Inmetro procedeu à análise de garrafas térmicas com ampolas de vidro, para manter o consumidor informado sobre a adequação dos produtos aos Regulamentos e Normas Técnicas. Uma das análises é a de eficiência térmica. Nesse ensaio, verifica-se a capacidade da garrafa térmica de conservar o líquido aquecido em seu interior por determinado tempo. A garrafa é completada com água a 90 ºC até o volume total. Após 3 horas, a temperatura do líquido é medida e deve ser, no mínimo, de 81 ºC para garrafas com capacidade de 1 litro, pois o calor específico da água é igual a 1 cal/g ºC. Disponível em: http://www.inmetro.gov.br/consumidor/produtos/garrafavidro.asp. Acesso em: 3 maio 2009 (adaptado). Atingindo a água 81 ºC nesse prazo, a energia interna do sistema e a quantidade de calor perdida para o meio são, respectivamente",
+      "alternativas": "A) menor e de 900 cal. B) maior e de 900 cal. C) menor e de 9.000 cal. D) maior e de 9.000 cal. E) constante e de 900 cal."
     }
   ],
   "user": {
